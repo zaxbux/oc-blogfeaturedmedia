@@ -1,0 +1,6 @@
+plugin:
+    name: 'Blog Post Thumbnails'
+    description: 'Adds thumbnails feature to blog posts'
+    author: 'Zachary Schneider'
+    icon: oc-icon-photo
+    homepage: 'https://www.zacharyschneider.ca/'
