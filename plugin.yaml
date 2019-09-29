@@ -1,6 +1,6 @@
 plugin:
-    name: 'Blog Post Thumbnails'
-    description: 'Adds thumbnails feature to blog posts'
+    name: 'Blog Post Featured Image Finder'
+    description: 'Replaces the default featured images file upload with the media finder'
     author: 'Zachary Schneider'
     icon: oc-icon-photo
     homepage: 'https://www.zacharyschneider.ca/'
